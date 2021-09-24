@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>CodeTogether</title>
+    <link>https://marketplace.eclipse.org/content/codetogether</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/codetogether-full-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-03-05 15:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-09-23 12:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Add &lt;a href=&quot;https://www.codetogether.com/dOpk/&quot; rel=&quot;nofollow&quot;&gt;CodeTogether&lt;/a&gt; to Eclipse to live share your IDE and coding sessions. Cross-IDE support for Eclipse, IntelliJ, and VS Code. See changes in real time, even when coding in the same file, like Google Docs for your code. So many uses: pair programming, mob programming, code review, project design, unit testing, education, interviews, remote development and more.&lt;/p&gt;
+&lt;p&gt;Free plan with anonymous usage is always available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Multi-IDE support.&lt;/strong&gt; Host and join from Eclipse, VS Code, or IntelliJ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Browser too. &lt;/strong&gt;IDE functionality with just a URL, even edit from a phone or tablet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secure. &lt;/strong&gt;&lt;a href=&quot;https://www.codetogether.com/dOpk/download/security/&quot; rel=&quot;nofollow&quot;&gt;End-to-end encryption&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.codetogether.com/dOpk/on-premises/&quot; rel=&quot;nofollow&quot;&gt;On-Premises&lt;/a&gt; option with SSO integration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-time editing. &lt;/strong&gt;See changes immediately, even when editing the same file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Host-based intelligence. &lt;/strong&gt;Exceptional content assist, validation &amp;amp; navigation for all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shared consoles &amp;amp; terminals. &lt;/strong&gt;Host-controlled with optional write access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share local servers. &lt;/strong&gt;Expose to your guests web apps running locally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible. &lt;/strong&gt;Supports multiple groups, easily move between groups or code alone. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeTogether Teams. &lt;/strong&gt;Simplifies collaboration with team-centric flows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient. &lt;/strong&gt;No resource drain, lag time or artifacting like with screen sharing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intuitive design. &lt;/strong&gt;See the &lt;a href=&quot;https://www.codetogether.com/dOpk/docs/getting-started-with-codetogether/&quot; rel=&quot;nofollow&quot;&gt;Getting Started Guide&lt;/a&gt; for details. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SAP ABAP support. &lt;/strong&gt;Collaborate &amp;amp; live share code that resides on an SAP server.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Mar 2020 20:48:34 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">5012014 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/codetogether#comments</comments>
+  </item>
+  <item>
+    <title>Dimensions CM Git Client for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/dimensions-cm-git-client-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/gitclientlogo.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/llewell/listings&quot; title=&quot;Lee Lewell&quot;&gt;Lee Lewell&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2020-03-11 07:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-09-23 10:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Micro%20Focus%22&quot;&gt;Micro Focus&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Dimensions CM integrates version and request management directly in Eclipse. Main features:&lt;/p&gt;
+&lt;p&gt;Simplifies and automates the identification, management, and processing of requests in an Eclipse environment.&lt;/p&gt;
+&lt;p&gt;Incorporates Dimensions CM version management functionality, with rich support for parallel development practices including optimistic locking, stream-based development, and workspace synchronization.&lt;/p&gt;
+&lt;p&gt;Supports Windows (64 bit), Linux, and Mac OS X.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 11 Mar 2020 11:25:03 +0000</pubDate>
+ <dc:creator>llewell</dc:creator>
+ <guid isPermaLink="false">5018981 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/dimensions-cm-git-client-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>WireframeSketcher Wireframing Tool</title>
+    <link>https://marketplace.eclipse.org/content/wireframesketcher-wireframing-tool</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sketch_80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pseverinqw0/listings&quot; title=&quot;Peter Severin&quot;&gt;Peter Severin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2008-11-03 09:15&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-09-23 06:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22WireframeSketcher%22&quot;&gt;WireframeSketcher&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;WireframeSketcher is a rapid wireframing tool that helps quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It comes both as a plug-in for any Eclipse IDE and a standalone version. With WireframeSketcher users can quickly gather useful feedback from stakeholders, show off their proposals to clients, share their ideas with fellow developers and in the end build better software. Install the 14 days free trial and test it for yourself.&lt;/p&gt;
+&lt;h3&gt;Some of the top features:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Extensive library of built-in controls for any type of UI. Stencils for Android, iPhone, iPad apps and more are available.&lt;/li&gt;
+&lt;li&gt;Hand-drawn look for wireframes. Your stakeholders won&#039;t be distracted by little details and you can focus on what’s important. Clean look is also available.&lt;/li&gt;
+&lt;li&gt;Create interactive prototypes. Present your prototypes in full-screen mode and click-through to show how the application or website is supposed work. Export your prototypes to clickable, high-quality PDF, or easily share them online in a few clicks.&lt;/li&gt;
+&lt;li&gt;More than 200 wireframing icons. Icons come in vector format, work at any size, can be colored, rotated, and embedded in any text.&lt;/li&gt;
+&lt;li&gt;Use components to create your own reusable bits. Easy inheritance mechanism lets you modify component&#039;s instance without breaking the link to its origin.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Download standalone version from our website: &lt;a href=&quot;http://wireframesketcher.com/download.html&quot; rel=&quot;nofollow&quot;&gt;http://wireframesketcher.com/download.html&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 03 Nov 2008 14:15:53 +0000</pubDate>
+ <dc:creator>pseverinqw0</dc:creator>
+ <guid isPermaLink="false">801 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/wireframesketcher-wireframing-tool#comments</comments>
+  </item>
+  <item>
+    <title> Virtual Service Eclipse Plugin for CA Service Virtualization</title>
+    <link>https://marketplace.eclipse.org/content/virtual-service-eclipse-plugin-ca-service-virtualization</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/CA-Broadcom_Stacked_red-black%20%281%29.png&quot; width=&quot;107&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ssubramaniam4no/listings&quot; title=&quot;Sankar Subramaniam&quot;&gt;Sankar Subramaniam&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-05-15 09:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-09-23 03:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22CA%20Technologies%20a%20Broadcom%20Company%22&quot;&gt;CA Technologies a Broadcom Company&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Smarter Mocking: Eclipse IDE with Service Virtualization&lt;/p&gt;
+&lt;p&gt;When developing apps, developers want to have all the dependencies, like virtual services, to be available/accessible from within their Eclipse IDE. If they can emulate the missing, unavailable, or costly components or systems in their IDEs, then errors can be easily and quickly identified, and fixed long before they get to production.&lt;/p&gt;
+&lt;p&gt;With Service Virtualization/DevTest 10.5, we have enhanced the Virtual Services Environment (VSE) Manager plugin that allows for easier development adoption by supporting the creation of virtual services directly through Eclipse. The Eclipse plugin functionality enables you to create, manage, update, and deploy virtual services from MAR files, directories of RR pairs and Swagger specification files, creation of HTTPs virtual services, and augmenting virtual services by updating the RR pairs to DevTest Solutions (CA Service Virtualization). You can achieve all of these in a standard environment, enabling developers to work with virtual services based out of their IDE. &lt;/p&gt;
+&lt;p&gt;You can access the plugin on the Eclipse Marketplace here.&lt;/p&gt;
+&lt;p&gt;This is a fundamental shift in the way developers develop and test software today. It can be defined as a “smarter mocking”. It’s a new way for developers to “have everything” they need when they need it in order to be as efficient as possible. Learn more about our eclipse plugin in our &lt;a href=&quot;https://docops.ca.com/devtest-solutions/10-5/en/using/using-service-virtualization/vse-manager-create-manage-and-deploy-virtual-services&quot; rel=&quot;nofollow&quot;&gt;documentation&lt;/a&gt; or watch&lt;a href=&quot;https://www.youtube.com/watch?v=WwRRzjOVZyk&quot; rel=&quot;nofollow&quot;&gt; this video.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 May 2019 13:11:13 +0000</pubDate>
+ <dc:creator>ssubramaniam4no</dc:creator>
+ <guid isPermaLink="false">4636467 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/virtual-service-eclipse-plugin-ca-service-virtualization#comments</comments>
+  </item>
+  <item>
+    <title>Snyk Security Scanner</title>
+    <link>https://marketplace.eclipse.org/content/snyk-security-scanner</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/snyk_eclipse.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ssecurity/listings&quot; title=&quot;Snyk Security&quot;&gt;Snyk Security&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-07-05 10:39&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-09-22 19:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Snyk%22&quot;&gt;Snyk&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Snyk is a free security vulnerability scanner that tests your project&#039;s open source dependencies, finds and helps fix security issues in your Eclipse workspace projects.&lt;/p&gt;
+&lt;p&gt;You can use Snyk on your Java, Scala, JavaScript .Net, Ruby projects and many more! Each scan tests your application against Snyk&#039;s extensive vulnerability database, to identify and advise you how to fix security problems. To learn more, visit &lt;a href=&quot;http://snyk.io&quot; rel=&quot;nofollow&quot;&gt;http://snyk.io&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 05 Jul 2019 14:39:26 +0000</pubDate>
+ <dc:creator>ssecurity</dc:creator>
+ <guid isPermaLink="false">4706981 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/snyk-security-scanner#comments</comments>
+  </item>
+  <item>
+    <title>SpotBugs Eclipse plugin</title>
+    <link>https://marketplace.eclipse.org/content/spotbugs-eclipse-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/23269302.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ktoda/listings&quot; title=&quot;Kengo TODA&quot;&gt;Kengo TODA&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-06-29 23:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-09-22 06:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22SpotBugs%20Team%22&quot;&gt;SpotBugs Team&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://spotbugs.github.io/&quot; rel=&quot;nofollow&quot;&gt;SpotBugs&lt;/a&gt; is a program which uses static analysis to look for bugs in Java code. SpotBugs is open source (LGPL).&lt;/p&gt;
+&lt;p&gt;SpotBugs checks for more than 400 bug patterns, such as null pointer dereferences, infinite recursive loops, bad uses of the Java libraries and deadlocks. Bug descriptions can be found &lt;a href=&quot;https://spotbugs.readthedocs.io/en/latest/bugDescriptions.html&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;SpotBugs Eclipse Plugin integrates SpotBugs seamlessly with the most popular Java IDE and allows to run SpotBugs analysis incrementally on changed files or on demand per project. A quick plugin introduction is available at &lt;a href=&quot;http://andrei.gmxhome.de/findbugs/index.html&quot; rel=&quot;nofollow&quot;&gt;https://spotbugs.readthedocs.io/en/latest/eclipse.html&lt;/a&gt; and a short video demo is available on &lt;a href=&quot;http://youtu.be/jflQSFhYTEo?hd=1&quot; rel=&quot;nofollow&quot;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://spotbugs.github.io/&quot; rel=&quot;nofollow&quot;&gt;SpotBugs&lt;/a&gt; is the spiritual successor of &lt;a href=&quot;http://findbugs.sourceforge.net&quot; rel=&quot;nofollow&quot;&gt;FindBugs&lt;/a&gt;, carrying on from the point where FindBugs left off with support of its community. SpotBugs is developed by an open source community and depends on the help from community. Please consider to help the project with patches, testing or simply improving documentation - your help is highly appreciated.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/spotbugs/spotbugs/issues&quot; rel=&quot;nofollow&quot;&gt;Submit your issue or suggestion at github&lt;/a&gt; and start contributing to the project!&lt;/p&gt;
+&lt;p&gt;Update sites:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://spotbugs.github.io/eclipse/&quot; rel=&quot;nofollow&quot;&gt;https://spotbugs.github.io/eclipse/&lt;/a&gt; - provides official releases of SpotBugs Eclipse plugin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spotbugs.github.io/eclipse-candidate/&quot; rel=&quot;nofollow&quot;&gt;https://spotbugs.github.io/eclipse-candidate/&lt;/a&gt; - provides official releases and release candidates of SpotBugs Eclipse plugin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spotbugs.github.io/eclipse-latest/&quot; rel=&quot;nofollow&quot;&gt;https://spotbugs.github.io/eclipse-latest/&lt;/a&gt; - provides latest SpotBugs Eclipse plugin built from master branch.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 30 Jun 2017 03:59:41 +0000</pubDate>
+ <dc:creator>ktoda</dc:creator>
+ <guid isPermaLink="false">3519199 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/spotbugs-eclipse-plugin#comments</comments>
+  </item>
+  <item>
+    <title>Tabnine AI Code Completion - JS Java Python TS Rust Go PHP and More</title>
+    <link>https://marketplace.eclipse.org/content/tabnine-ai-code-completion-js-java-python-ts-rust-go-php-and-more</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/T9%20logo%20256x256_1.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/eransho/listings&quot; title=&quot;Eran Shoval&quot;&gt;Eran Shoval&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2021-08-08 12:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-09-22 03:44&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Tabnine%22&quot;&gt;Tabnine&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://bit.ly/2UwHG4a&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;  &lt;a href=&quot;https://bit.ly/3pxpBRX&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;  &lt;a href=&quot;https://bit.ly/3aDiGkX&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;Supercharge Your Development Workflow&lt;/h2&gt;
+&lt;p&gt;Tabnine is the AI code completion tool &lt;strong&gt;trusted by millions of developers&lt;/strong&gt; to code faster with fewer errors. Whether you are a new dev or a seasoned pro, working solo or part of a team, Tabnine will help push your productivity to new heights while cutting your QA time – all in your favorite IDE.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Tabnine’s AI Engine&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Tabnine delivers three times the AI for better collaboration, better privacy protection, and better code completion.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Bigger Team - Better AI&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools Your Team Can Count On&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coding collaboration just got easier. Both &lt;strong&gt;Tabnine Basic&lt;/strong&gt; and &lt;strong&gt;Tabnine Pro&lt;/strong&gt; now include our growing suite of tools for teams. Name your team, invite team members, and manage your account all from your &lt;strong&gt;My Tabnine&lt;/strong&gt; profile.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learn &amp;amp; Grow as You Go&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The more team members you invite and add, the faster Tabnine’s &lt;strong&gt;Team Trained AI&lt;/strong&gt;, and &lt;strong&gt;Private Codebase Trained AI&lt;/strong&gt; will learn your team’s projects, preferences, and patterns, suggesting even more accurate code completions.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Privacy &amp;amp; Compliance&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your Code Is Never Shared&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Tabnine we know privacy is paramount. All three of Tabnine&#039;s AI code completion models can be run locally, on your machine, and NEVER share your code or use it as part of Tabnine’s open-source trained AI.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your Data Is Never Shared&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Both the Team Trained AI and Private Codebase AI store all your AI training data locally on your machines, helping ensure compliance while providing you and your team with complete control and custody of your data and code.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Find out more about how we keep your code private &lt;a href=&quot;https://www.tabnine.com/code-privacy&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Tabnine - Your AI Assistant&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Whether you call it &lt;strong&gt;IntelliSense, intelliCode, autocomplete, AI-assisted code completion, AI-powered code completion, AI copilot, AI code snippets, code suggestion, code prediction, code hinting&lt;/strong&gt;, or &lt;strong&gt;content assist&lt;/strong&gt;, you probably already know that it can save you tons of time, easily cutting your keystrokes in half.&lt;/p&gt;
+&lt;p&gt;Powered by sophisticated &lt;strong&gt;machine learning models&lt;/strong&gt; trained on billions of lines of trusted &lt;strong&gt;Open Source code&lt;/strong&gt; from GitHub, Tabnine is the most advanced &lt;strong&gt;AI-powered code completion&lt;/strong&gt; copilot available today. And like GitHub, it is an essential tool for professional developers.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;All the Languages You Love, including:&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+Java
+Javascript
+Python
+
+
+extended JS
+React
+PHP
+
+
+Typescript
+C Header
+Bash
+
+
+ML
+Swift
+Ruby
+
+
+Perl
+Rust
+SQL
+
+
+Vue
+F#
+Scala
+
+
+Julia
+TOML
+Shell
+
+
+YMAL
+C / C++ / C#
+HTML
+
+
+Lua
+Markdown
+Haskell
+
+
+Go
+Objective C
+JSON
+
+
+CSS / SCSS
+Angular
+Kotlin
+
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Speed Up Your Development&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Get quick concise code suggestions you can count on for easy in-flow approval and integration. You’ll never need to memorize syntax, worry about typos, or hunt for snippets again.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Stay in Flow&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Tabnine serves up suggestions for code completions right in your IDE, with no distractions and no downtime.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Code Discovery&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Tabnine&#039;s AI scans and learns from the best open-source coding practices from across the globe, freeing you to focus on problems that haven&#039;t already been solved.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Ace Your Code Review&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Reduce development costs, eliminate unnecessary QA-ing, and deliver final code faster with AI trained on the most trusted open-source permissive license repositories.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Pick the Plan that Works Best for You&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Tabnine Basic&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No Credit Card, No Commitment - Just Code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.tabnine.com/install?utm_source=ide_marketplace&amp;amp;utm_medium=organic&amp;amp;utm_campaign=jetbrains_marketplace&quot; rel=&quot;nofollow&quot;&gt;Get Tabnine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Tabnine Pro&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pro Tools for Professional Developers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.tabnine.com/pro?utm_source=ide_marketplace&amp;amp;utm_medium=organic&amp;amp;utm_campaign=jetbrains_marketplace&quot; rel=&quot;nofollow&quot;&gt;Upgrade to Pro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Tabnine Free Student Pro Plan&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Investing In Our Community&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We know that tuition, books, rent, and food can get crazy expensive, that’s why Tabnine helps support the community and the dev superstars of tomorrow with a 100% free Tabnine Student license with &lt;strong&gt;all our Pro perks&lt;/strong&gt; renewable for as long as you are a student.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.tabnine.com/students?utm_source=ide_marketplace&amp;amp;utm_medium=organic&amp;amp;utm_campaign=jetbrains_marketplace&quot; rel=&quot;nofollow&quot;&gt;Student? Click here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&quot;-installation-instructions-&quot;&gt;&lt;strong&gt;Easy Installation&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;In Eclipse menu choose Help -&amp;gt; Eclipse Marketplace&lt;/li&gt;
+&lt;li&gt;Search for Tabnine and press Go&lt;/li&gt;
+&lt;li&gt;Click for Browse for more solutions&lt;/li&gt;
+&lt;li&gt;Click the Install button next to Tabnine search result&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;FAQ&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Got a question? We’ve got the answer - Check out our &lt;a href=&quot;https://www.tabnine.com/faq?utm_source=ide_marketplace&amp;amp;utm_medium=organic&amp;amp;utm_campaign=jetbrains_marketplace&quot; rel=&quot;nofollow&quot;&gt;FAQ&lt;/a&gt; page&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Tabnine Support&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Having some trouble with installation? Something not working the way you hoped? &lt;strong&gt;Tabnine Support&lt;/strong&gt; is always happy to help. Feel free to contact us anytime at &lt;a href=&quot;mailto:support@tabnine.com&quot; rel=&quot;nofollow&quot;&gt;support@tabnine.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Tabnine Hub&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;A quick click on &lt;strong&gt;Tabnine&lt;/strong&gt; on your IDE status bar takes you directly to your &lt;strong&gt;Tabnine Hub&lt;/strong&gt; where you can easily update and manage all your account options and customize your suggestion preferences.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&quot;-usage-&quot;&gt;&lt;strong&gt;Usage&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;After Tabnine’s installation, navigate to the Tabnine&#039;s plugin section (go to -&amp;gt; file -&amp;gt; settings -&amp;gt; plugins) and verify that Tabnine local model is successfully loaded.&lt;/p&gt;
+&lt;p&gt;Tabnine is a textual autocomplete extension. When you type a specific string in your editor, you will view Tabnine completion dialog, with Tabnine suggestions according to the text you type&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&quot;-deep-completion-&quot;&gt;&lt;strong&gt;Deep Completion&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Deep Tabnine is trained on millions of files from GitHub. During training, Tabnine’s code completion goal is to predict the next token given the tokens that came before. To achieve this goal, Tabnine learns complex behavior, such as type inference in dynamically typed languages&lt;/p&gt;
+&lt;p&gt;Deep Tabnine can use subtle clues that are difficult for traditional tools to access. For example, the return type of &lt;code&gt;app.get_user()&lt;/code&gt; is assumed to be an object with setter methods, while the return type of &lt;code&gt;app.get_users()&lt;/code&gt; is assumed to be a list&lt;/p&gt;
+&lt;p&gt;Deep Tabnine is based on GPT-2, which uses the Transformers Network Architecture. This architecture was first developed to solve problems in natural language processing. Although modeling code and modeling natural language might appear to be unrelated tasks, modeling code requires understanding English in some unexpected ways&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Tabnine Indexes your entire project and determines which files to ignore by reading your &lt;code&gt;.gitignore&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Tabnine cuts your number of keystrokes in half and eliminates unnecessary typos&lt;/li&gt;
+&lt;li&gt;Tabnine works right out of the box ensuring frictionless installation and configuration&lt;/li&gt;
+&lt;li&gt;Tabnine offers code completion suggestions in less than 10 milliseconds&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Communities&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discord.gg/5GnbDg5Jmg&quot; rel=&quot;nofollow&quot;&gt;Join the Tabnine Discord server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt;Join the Tabnine community in Slack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&quot;-_recommended-by-developers-everywhere-_-&quot;&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;&lt;em&gt;Recommended by developers everywhere:&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&quot;-technical-information-&quot;&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Technical information&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt;Tabnine Indexes your entire project by reading your &lt;code&gt;.gitignore&lt;/code&gt; or others and determines which files to index. &lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt;Add long variable names using minimal keystrokes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt;Zero configuration. Tabnine works out of the box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt;Highly responsive: Produces a list of suggestions in less than 10 milliseconds on average&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://join.slack.com/t/tabnine-community/shared_invite/zt-mi5n0v6f-4W0Ap4yAUQXS~nVvxwSoJg&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Check out our Podcast: Eran and Getify chat about AI&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.tabnine.com/blog/eran-and-kyle-podcast-ep1/&quot; rel=&quot;nofollow&quot;&gt;Ep. 1 - How does AI work in general?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tabnine.com/blog/eran-and-kyle-podcast-ep2/&quot; rel=&quot;nofollow&quot;&gt;Ep. 2 - Is AI going to replace us?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tabnine.com/blog/eran-and-kyle-podcast-ep3/&quot; rel=&quot;nofollow&quot;&gt;Ep. 3 - One language to rule them all&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tabnine.com/blog/eran-and-kyle-podcast-ep4/&quot; rel=&quot;nofollow&quot;&gt;Ep. 4 - Machine Learning and decision making&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What do leadres of the Dev Community say about Tabnine&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://youtu.be/YG4-l3VaOWc?t=106&quot; rel=&quot;nofollow&quot;&gt;Stefan Mischook - Everyone can code with Tabnine, no matter in which programming language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=10cO9UNsA3Y&quot; rel=&quot;nofollow&quot;&gt;Ania Kubów - Battle of the AI AutoCompletion tools!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/sS8DWRQ_tao?t=92&quot; rel=&quot;nofollow&quot;&gt;Utsav from &quot;Engineering with Utsav&quot; explains why he uses Tabnine all the time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mqz9_foZFWQ&quot; rel=&quot;nofollow&quot;&gt;Adrian Twarog - Using Tabnine to write code Faster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;More resources: &lt;a href=&quot;https://www.tabnine.com/blog&quot; rel=&quot;nofollow&quot;&gt;Tabnine blog&lt;/a&gt;, &lt;a href=&quot;https://www.tabnine.com/academy&quot; rel=&quot;nofollow&quot;&gt;Tabnine Academy&lt;/a&gt; &lt;a href=&quot;https://www.tabnine.com/faq&quot; rel=&quot;nofollow&quot;&gt;Questions? Check out our FAQ&lt;/a&gt;, &lt;a href=&quot;https://www.tabnine.com/pricing&quot; rel=&quot;nofollow&quot;&gt;Learn more about our premium plans&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: Can I install Tabnine on multiple machines?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: You can use your Tabnine license on as many computers and operating systems as you like. All Tabnine Licenses are per-user, rather than per-machine.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: Is there a Tabnine Student program?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: Yes, If you’re a student, you can register for Tabnine Pro for FREE using your school email address. &lt;a href=&quot;https://www.tabnine.com/students?utm_source=ide_marketplace&amp;amp;utm_medium=organic&amp;amp;utm_campaign=jetbrains_marketplace&quot; rel=&quot;nofollow&quot;&gt;Get Tabnine Student now&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: Does Tabnine use a model trained on safe, open-source code for completions?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: Yes, all Tabnine code completions are based on trusted, open-source code with permissive licenses.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: Does the Tabnine Private Codebase AI share my code?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: NEVER! Your code is always kept local and 100% private for you and your team. It’s never used to train the Tabnine Private Codebase AI - That’s the Tabnine Privacy Promise.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: Do All Three Tabnie AI Models work together?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: Yes, the three models work in tandem, simultaneously providing unparalleled AI accuracy. Tabnine’s Open-Source Trained AI bases its suggestions on trusted public code with permissive licenses while the Private Codebase AI and Team Trained AI learn from you and your team’s preferences, code selections, and ongoing AI interactions.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: Can I run Tabnine locally, or do I need to use the Cloud?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: You can run Tabnine locally or on the cloud, you choose! Regardless, your code is never shared or used as part of Tabnine’s Open-Source Trained AI - That’s the Tabnine Privacy Promise.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: Does Tabnine work in multiple IDEs?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: Yes, Tabnine works with all your favorite IDEs, and in the most popular languages, libraries, and frameworks. See the full list of IDEs and languages &lt;a href=&quot;https://www.tabnine.com/install?utm_source=ide_marketplace&amp;amp;utm_medium=organic&amp;amp;utm_campaign=jetbrains_marketplace&quot; rel=&quot;nofollow&quot;&gt;Here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: What is the difference between Tabnine Basic and Tabnine Pro?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: Tabnine Pro uses our advanced AI Model trained on more than a billion lines of open-source code and works with teams of up to 30. Tabnine Basic uses a smaller AI model and works with teams of three or less.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Q: What type of online payments are accepted?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A: Tabnine accepts all major credit cards and debit cards, including Visa, Mastercard, American Express, and more. Tabnine also accepts PayPal, Google Pay, Apple Pay, as well as additional payment options that may be available in your specific location (such as Alipay).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 08 Aug 2021 16:40:06 +0000</pubDate>
+ <dc:creator>eransho</dc:creator>
+ <guid isPermaLink="false">5436988 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/tabnine-ai-code-completion-js-java-python-ts-rust-go-php-and-more#comments</comments>
+  </item>
+  <item>
+    <title>SQL DAL Maker</title>
+    <link>https://marketplace.eclipse.org/content/sql-dal-maker</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sqldalmaker_24.png&quot; width=&quot;24&quot; height=&quot;24&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pmisingnameeok/listings&quot; title=&quot;Andrey Panedrone&quot;&gt;Andrey Panedrone&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-08-02 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-09-22 01:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22.%22&quot;&gt;.&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A generator of DTO and DAO classes to access relational databases. Target programming languages: PHP, Java, C++, Python, Ruby, and Go. To generate the class, you declare it in XML meta-program.&lt;/p&gt;
+&lt;p&gt;Source Code: &lt;a href=&quot;https://github.com/panedrone/sqldalmaker&quot; rel=&quot;nofollow&quot;&gt;https://github.com/panedrone/sqldalmaker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Quick-Demo in mp4: &lt;a href=&quot;https://github.com/panedrone/sqldalmaker/releases/tag/latest&quot; rel=&quot;nofollow&quot;&gt;https://github.com/panedrone/sqldalmaker/releases/tag/latest&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 02 Aug 2011 22:05:21 +0000</pubDate>
+ <dc:creator>pmisingnameeok</dc:creator>
+ <guid isPermaLink="false">97312 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/sql-dal-maker#comments</comments>
+  </item>
+  <item>
+    <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, VHDL, and PSS</title>
+    <link>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/AMIQ_logo_web_110x63.jpg&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/emisingname6ia/listings&quot; title=&quot;etools Mising name&quot;&gt;etools Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-04-19 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2021-09-21 15:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22AMIQ%20EDA%22&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with &lt;strong&gt;SystemVerilog, Verilog, VHDL, e, UPF, CPF, SLN, PSS, SDL&lt;/strong&gt;. &lt;strong&gt;Including Universal Verification Methodology (UVM)&lt;/strong&gt; support. It is similar to well-known programming tools like Visual Studio®, NetBeans®, and IntelliJ®. DVT comprises a proprietary IEEE standard-compliant parser, a smart code editor, an intuitive GUI, a comprehensive set of features that help with code inspection, navigation, documentation, and debugging, and an innovative linting framework. DVT allows design and verification engineers to overcome the limitations of plain text editors and use a modern and powerful tool that enables them to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Increase the speed and quality of new code development&lt;/li&gt;
+&lt;li&gt;Easily understand complex or poorly documented source code&lt;/li&gt;
+&lt;li&gt;Simplify the maintenance of legacy code and reusable libraries&lt;/li&gt;
+&lt;li&gt;Accelerate language and methodology learning&lt;/li&gt;
+&lt;li&gt;Automatically generate well-organized source code documentation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+FEATURES  Some of the features that DVT offers include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Compilation errors signaled on the fly&lt;/li&gt;
+&lt;li&gt;Autocomplete / Content Assist&lt;/li&gt;
+&lt;li&gt;Customizable code and project templates&lt;/li&gt;
+&lt;li&gt;Dedicated wizards to generate getters and setters, override functions, or help with UVM factory registration&lt;/li&gt;
+&lt;li&gt;Hyperlinks&lt;/li&gt;
+&lt;li&gt;Semantic Search and Show Usages&lt;/li&gt;
+&lt;li&gt;Quick fixes / Autocorrect&lt;/li&gt;
+&lt;li&gt;Refactoring&lt;/li&gt;
+&lt;li&gt;Macro expansion&lt;/li&gt;
+&lt;li&gt;Project database query views (types, macros, checks, etc.)&lt;/li&gt;
+&lt;li&gt;Structural views (type hierarchy, design hierarch, call hierarchy, etc.)&lt;/li&gt;
+&lt;li&gt;Signal tracing&lt;/li&gt;
+&lt;li&gt;UML and TLM diagrams for inspecting and documenting the verification environment&lt;/li&gt;
+&lt;li&gt;Schematic, trace, state machine diagrams for inspecting and documenting the design&lt;/li&gt;
+&lt;li&gt;Dedicated UVM support&lt;/li&gt;
+&lt;li&gt;Cross-language capabilities for mixed-language projects&lt;/li&gt;
+&lt;li&gt;In-line reminders for task tracking (TO DOs)&lt;/li&gt;
+&lt;li&gt;Vi and emacs emulation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;INTEGRATION WITH OTHER TOOLS Since it is built on the Eclipse Platform, the DVT IDE can be easily integrated within a large plug-in ecosystem. It also integrates seamlessly with all major hardware simulators such as NCSim , Specman , VCS , and Questa, to enable simplified simulation analysis and debugging. In addition, it works with revision control systems like CVS, Git, Subversion, ClearCase and bug tracking systems such as Bugzilla and ClearQuest.&lt;br /&gt;
+RESOURCES &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/products/dvt-eclipse-ide&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT Eclipse IDE Web Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/datasheets/amiq_dvt_datasheet.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT Eclipse IDE Datasheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLBx64n-99iZNiUJj_I8WkLLbRl8u0mi94&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Demo movies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/products/dvt-debugger&quot; rel=&quot;nofollow&quot;&gt;DVT Debugger Add-on&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
+ <dc:creator>emisingname6ia</dc:creator>
+ <guid isPermaLink="false">192 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss#comments</comments>
+  </item>
+  <item>
+    <title>Groovy Development Tools</title>
+    <link>https://marketplace.eclipse.org/content/groovy-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2021-09-20 11:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven (m2e) support for the &lt;a href=&quot;http://groovy-lang.org&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
+&lt;p&gt;GDT requires Eclipse Java Development Tools (JDT) as it builds upon Java/JVM support, including Java interoperability (bi-directional dependencies via joint compilation). &lt;strong&gt;If your Eclipse flavor does not include JDT, you must install it first.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, please consider the Groovy-Grails Tools Suite or &lt;a href=&quot;https://github.com/spring-projects/grails-ide&quot; rel=&quot;nofollow&quot;&gt;spring-projects/grails-ide&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
+ <dc:creator>aclement</dc:creator>
+ <guid isPermaLink="false">321859 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
+  </item>
+  </channel>
+</rss>
